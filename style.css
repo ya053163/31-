@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+#card {
+	margin: auto;
+	padding: 10px;
+	height: 480px;
+	width: 320px;
+	background-color: #8063A4;
+	border-radius: 20px;
+}
+#pic {
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	background-color: #F8C1C6;
+	background-image: url(images/head2.png);
+	background-size: contain;
+	border-radius: 225px;
+	background-repeat: no-repeat;
+	background-position: 54% 59%;
+}
+#pic {
+	margin: auto;
+	height: 200px;
+	width: 200px;
+}
+#pic {
+	margin: auto;
+	height: 200px;
+	width: 200px;
+}
+#word {
+	margin: auto;
+	width: 60%;
+}
+h1 {
+	color: #FFFFFF;
+}
+ul li {
+	color: #FCFCFC;
+}
